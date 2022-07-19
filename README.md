@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Irfan!](https://mohdirfan.netlify.app/)
 
 Here are some things find about me:
 
