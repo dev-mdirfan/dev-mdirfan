@@ -1,5 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Irfan!](https://mohdirfan.netlify.app/)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 Here are some things find about me:
 
 - 🔭 I’m currently working on ...
@@ -11,4 +12,7 @@ Here are some things find about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
+## Programming Languages :
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+
+
