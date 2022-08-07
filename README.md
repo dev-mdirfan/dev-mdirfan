@@ -1,8 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Irfan!](https://mohdirfan.netlify.app/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
-Here are some things find about me:
 
+Here are some things find about me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning AR/VR Metaverse
 - 👯 I’m looking to collaborate on ...
@@ -11,8 +11,12 @@ Here are some things find about me:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-## Programming Languages :
+##  ✔ Technologies 
+### Machine Learnings :
+* 
+### AR/VR Metaverse :
+* 
+### Languages :
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 
 
