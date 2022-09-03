@@ -2,22 +2,36 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
-## My Portfolio - [Hire Me](https://mdirfan.netlify.app/)
+## My Portfolio - [Hire Me- mdirfan.netlify.app](https://mdirfan.netlify.app/)
 
 Here are some things find about me:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AR/VR Metaverse
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Full Stack Web Development.
+- 🌱 I’m currently learning Data Science.
+- 🌱 I worked on projects of AR/VR Metaverse, WebD.
+- 👯 I’m looking to collaborate on FSD
+- 🤔 I’m looking for help with 
+- 💬 Ask me about my learning
+- 📫 How to reach me: [mdirfan.netlify.app](https://mdirfan.netlify.app/)
+- ⚡ Fun fact: Data Scientist
+
 ##  ✔ Technologies 
+
 ### Machine Learnings :
-* 
+* Learning Phase
+
 ### AR/VR Metaverse :
 * 
+
 ### Languages :
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow">
+
+## Top Projects :
+1. 
+2. 
+3. 
+4. 
+
+|S.No|Name|Field|
+|---|---|---|
+|1.|Heart Desease Detection Using ML|Machine Learning|
