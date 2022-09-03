@@ -35,3 +35,7 @@ Python, Machine Learning, FSD(Web Development)
 |S.No|Name|Field|
 |---|---|---|
 |1.|Heart Desease Detection Using ML|Machine Learning|
+
+### End-to-End Projects :
+
+### Collaborated Projects :
