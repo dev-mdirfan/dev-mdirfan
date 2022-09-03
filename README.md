@@ -1,6 +1,8 @@
-## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mohdirfan.netlify.app/)
+## Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mdirfan.netlify.app/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
+
+# My Portfolio - [Hire Me](https://mdirfan.netlify.app/)
 
 Here are some things find about me:
 - 🔭 I’m currently working on ...
