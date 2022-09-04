@@ -6,10 +6,8 @@
 |||
 |---|---|
 |[My Portfolio]()|[![](./images/my-portfolio-1.png)]()|
-|[My Portfolio]()|[img[alt=drawing] { width: 200px; }]()|
-|[My Portfolio]()|![](./images/my-portfolio-1.png=100x20)|
-|Hire Me [Fiver]()||
-![<img src="./images/my-portfolio.png" width="250"/>](./images/my-portfolio-1.png)
+|Hire Me on [Fiver]()||
+|Download [CV]()||
 
 
 Here are some things find about me:
