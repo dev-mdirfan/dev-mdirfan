@@ -3,6 +3,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
 ## My Portfolio - [Hire Me- mdirfan.netlify.app](https://mdirfan.netlify.app/)
+|||
+|---|---|
+|[My Portfolio]()|[![](./images/my-portfolio-1.png)]()|
+|[My Portfolio]()|[img[alt=drawing] { width: 200px; }]()|
+|[My Portfolio]()|![](./images/my-portfolio-1.png=100x20)|
+|Hire Me [Fiver]()||
+![<img src="./images/my-portfolio.png" width="250"/>](./images/my-portfolio-1.png)
+
 
 Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
