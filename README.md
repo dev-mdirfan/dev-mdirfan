@@ -3,9 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
 ### My Portfolio - [mdirfan.netlify.app](https://mdirfan.netlify.app/)
-
-<h4 align="">Download <a href="#">CV</a></h4>
-<h4 align="center">Hire Me on <a href="">Fiver</a></h4>
+<h3 align="">Download <a href="#">CV</a></h3>
+<h3 align="">Hire Me on <a href="">Fiver</a></h3>
 
 Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
