@@ -5,12 +5,12 @@
 ## My Portfolio - [Hire Me- mdirfan.netlify.app](https://mdirfan.netlify.app/)
 
 Here are some things find about me:
-- 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning Data Science.
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Full Stack Web Development.
 - 🌱 I worked on projects of AR/VR Metaverse, WebD.
-- 👯 I’m looking to collaborate on FSD
-- 🤔 I’m looking for help with 
-- 💬 Ask me about my learning
+- 👯 I’m looking to collaborate on FSD.
+- 🤔 I’m looking for help with new people to collaborate...
+- 💬 Ask me about my work.
 - 📫 How to reach me: [mdirfan.netlify.app](https://mdirfan.netlify.app/)
 - ⚡ Fun fact: Data Scientist
 
