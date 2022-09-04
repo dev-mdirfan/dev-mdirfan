@@ -2,13 +2,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
-## My Portfolio - [Hire Me- mdirfan.netlify.app](https://mdirfan.netlify.app/)
-|||
-|---|---|
-|[My Portfolio]()|[![](./images/my-portfolio-1.png)]()|
-|Hire Me on [Fiver]()||
-|Download [CV]()||
+### My Portfolio - [mdirfan.netlify.app](https://mdirfan.netlify.app/)
 
+<h4 align="">Download <a href="#">CV</a></h4>
+<h4 align="center">Hire Me on <a href="">Fiver</a></h4>
 
 Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
