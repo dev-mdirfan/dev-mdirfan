@@ -40,4 +40,10 @@ Python, Machine Learning, FSD(Web Development)
 
 ### End-to-End Projects :
 
+### Python Games :
+
+|S.No.|Project Name|Related Field|
+|---|---|---|
+|1.|[Snake Game using Pygame](https://github.com/dev-mdirfan/Snake-Game-Using-Python.git)|Python|
+
 ### Collaborated Projects :
