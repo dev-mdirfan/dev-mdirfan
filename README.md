@@ -37,7 +37,7 @@ Here are some things find about me:
 
 
 
-## 1. Go To [My Learning Repos](https://github.com/dev-mdirfan/My-Learning-Repos.git)
+## [1. Go To My Learning Repos](https://github.com/dev-mdirfan/My-Learning-Repos.git)
 
 ## 2. Top Projects :
 
