@@ -37,9 +37,9 @@ Here are some things find about me:
 
 
 
-## [1. Go To My Learning Repos](https://github.com/dev-mdirfan/My-Learning-Repos.git)
+## [1. Go To My Learning Repos :](https://github.com/dev-mdirfan/My-Learning-Repos.git)
 
-## 2. Top Projects :
+## [2. Top Projects :](/)
 
 |S.No|Name|Field|
 |---|---|---|
@@ -47,10 +47,10 @@ Here are some things find about me:
 
 <!-- ### End-to-End Projects : -->
 
-## 3. Python Games Projects :
+## [3. Python Games Projects :](/)
 
 |S.No.|Project Name|Related Field|
 |---|---|---|
 |1.|[Snake Game using Pygame](https://github.com/dev-mdirfan/Snake-Game-Using-Python.git)|Python|
 
-## 4. Collaborated Projects :
+## [4. Collaborated Projects :](/)
