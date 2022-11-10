@@ -44,11 +44,11 @@ Here are some things find about me:
 |S.No.|Technology|Repository Name|Source Link|
 |---|---|---|---|
 |1.|__Web Development__|[WEB Development by CodeWithHarry](https://github.com/dev-mdirfan/WEB-Development-CWH.git)||
-|2.|__Git and GitHub__|[Complete Git and Github by Kunal Kushwaha](https://github.com/dev-mdirfan/git-and-github-by-kunal-kushwaha-notes.git)||
-|3.|__Git and GitHub__|[Learn Git and GitHub by Anuj Bhaiya](https://github.com/dev-mdirfan/git-and-github-by-Anuj-bhaiya-notes.git)||
-|4.|__Python__ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|__[Python by Geeky Shows](https://github.com/dev-mdirfan/Python-by-Geeky-Shows.git)__||
-|5.|__Python__ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|__[Python with Code With Harry](https://github.com/dev-mdirfan/Python-CWH.git)__||
-|6.|__Python__ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|__[Python by ]()__||
+|2.|<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">|[Complete Git and Github by Kunal Kushwaha](https://github.com/dev-mdirfan/git-and-github-by-kunal-kushwaha-notes.git)||
+|3.|<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">|[Learn Git and GitHub by Anuj Bhaiya](https://github.com/dev-mdirfan/git-and-github-by-Anuj-bhaiya-notes.git)||
+|4.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by Geeky Shows](https://github.com/dev-mdirfan/Python-by-Geeky-Shows.git)||
+|5.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python with Code With Harry](https://github.com/dev-mdirfan/Python-CWH.git)||
+|6.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by ]()||
 
 ## [2. Top Projects :](/)
 
