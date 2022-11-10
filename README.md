@@ -21,13 +21,6 @@ Here are some things find about me:
 - 📫 How to reach me: [mdirfan.netlify.app](https://mdirfan.netlify.app/)
 - ⚡ Fun fact: Data Scientist
 
-##  ✔ Technologies 
-
-- __Expertise on :__
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-<!-- <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"> -->
-
 <!-- Statistics -->
 
 <!--    ![Github stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true)
@@ -65,3 +58,10 @@ Here are some things find about me:
 |1.|[Snake Game using Pygame](https://github.com/dev-mdirfan/Snake-Game-Using-Python.git)|Python|
 
 ## [4. Collaborated Projects :](/)
+
+##  ✔ Technologies 
+
+- __Expertise on :__
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<!-- <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"> -->
