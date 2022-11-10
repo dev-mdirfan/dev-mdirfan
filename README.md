@@ -37,7 +37,18 @@ Here are some things find about me:
 
 
 
-## [1. Go To My Learning Repos :](https://github.com/dev-mdirfan/My-Learning-Repos.git)
+<!-- ## [1. Go To My Learning Repos :](https://github.com/dev-mdirfan/My-Learning-Repos.git) -->
+
+## My Learning Repository
+
+|S.No.|Technology|Repository Name|Source Link|
+|---|---|---|---|
+|1.|__Web Development__|[WEB Development by CodeWithHarry](https://github.com/dev-mdirfan/WEB-Development-CWH.git)||
+|2.|__Git and GitHub__|[Complete Git and Github by Kunal Kushwaha](https://github.com/dev-mdirfan/git-and-github-by-kunal-kushwaha-notes.git)||
+|3.|__Git and GitHub__|[Learn Git and GitHub by Anuj Bhaiya](https://github.com/dev-mdirfan/git-and-github-by-Anuj-bhaiya-notes.git)||
+|4.|__Python__|__[Python by Geeky Shows](https://github.com/dev-mdirfan/Python-by-Geeky-Shows.git)__||
+|5.|__Python__|__[Python with Code With Harry](https://github.com/dev-mdirfan/Python-CWH.git)__||
+|6.|__Python__|__[Python by ]()__||
 
 ## [2. Top Projects :](/)
 
