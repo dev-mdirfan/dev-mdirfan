@@ -26,6 +26,9 @@ Here are some things find about me:
 <!--    ![Github stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true)
    <br>
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light) -->
+  
+
+## [1. See My ALL Projects](https://github.com/dev-mdirfan/MyProjects.git)
 
 **Programming Languages**
 
@@ -69,11 +72,7 @@ Here are some things find about me:
 |6.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by ]()||
  -->
 
-## [2. My ALL Projects](https://github.com/dev-mdirfan/MyProjects.git)
-
-##  ✔ Technologies 
-
-- __Expertise on :__
+##  ✔ Technologies
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <!-- <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"> -->
