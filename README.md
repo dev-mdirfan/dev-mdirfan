@@ -43,23 +43,7 @@ Here are some things find about me:
 |5.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python with Code With Harry](https://github.com/dev-mdirfan/Python-CWH.git)||
 |6.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by ]()||
 
-## [2. Top Projects :](/)
-
-|S.No|Name|Field|
-|---|---|---|
-|1.|Heart Desease Detection Using ML|Machine Learning|
-
-<!-- ### End-to-End Projects : -->
-
-## [3. Python Games Projects :](/)
-
-|S.No.|Project Name|Related Field|
-|---|---|---|
-|1.|[Snake Game using Pygame](https://github.com/dev-mdirfan/Snake-Game-Using-Python.git)|Python|
-
-## [4. Collaborated Projects :](/)
-
-## [5. My ALL Projects](https://github.com/dev-mdirfan/MyProjects.git)
+## [2. My ALL Projects](https://github.com/dev-mdirfan/MyProjects.git)
 
 ##  ✔ Technologies 
 
