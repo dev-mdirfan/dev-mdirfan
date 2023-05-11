@@ -38,6 +38,9 @@ Here are some things find about me:
 - links4
 - links5
 
+<!-- Profile Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-mdirfan&theme=dracula&no-bg-true&no-frame=true&margin-w=15&row=1&column=-1)](https://github.com/dev-mdirfan/github-profile-trophy)
+
 ##  ✔ Technologies <img align='right' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img align='right' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img align='right' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ### [My ALL Projects](https://github.com/dev-mdirfan/MyProjects.git)
@@ -95,5 +98,5 @@ Here are some things find about me:
 
 <!-- <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-mdirfan)](https://github.com/dev-mdirfan/github-profile-trophy)
+
 
