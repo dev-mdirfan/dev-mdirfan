@@ -15,7 +15,12 @@ Here are some things find about me:
 
 <!-- Statistics-2 -->
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true) -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true">
+<!-- Error -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true"> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href='https://github.com/dev-mdirfan/github-readme-stats' ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&langs_count=10"></a>
 
 - 🌱 I worked on projects of AR/VR Metaverse, WebD.
 - 👯 I’m looking to collaborate on FSD.
@@ -28,7 +33,8 @@ Here are some things find about me:
 
 <!-- Statistics-3 -->
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light) -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light">
+<!-- Error -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light"> -->
 
 ### Connect with me:
 
@@ -50,7 +56,12 @@ Here are some things find about me:
 2. __[Django Project](#)__
 3. 
 
-<div align='right'>
+
+[![Mohd Irfan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev-mdirfan)](https://github.com/dev-mdirfan/github-readme-stats)
+
+
+
+<!-- <div align='right'>
 
 **Programming Languages**
 
@@ -80,7 +91,7 @@ Here are some things find about me:
 <br>
    
 </div>
-
+ -->
 
 <!-- ## [1. Go To My Learning Repos :](https://github.com/dev-mdirfan/My-Learning-Repos.git) -->
 <!-- 
