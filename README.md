@@ -1,7 +1,8 @@
 # Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mdirfan.netlify.app/)
 
-<!-- Statistics -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true">
+<!-- Statistics-1 -->
+<!-- ![satical data](https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&) -->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
@@ -12,7 +13,9 @@ Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Full Stack Web Development.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light">
+<!-- Statistics-2 -->
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true">
 
 - 🌱 I worked on projects of AR/VR Metaverse, WebD.
 - 👯 I’m looking to collaborate on FSD.
@@ -20,14 +23,20 @@ Here are some things find about me:
 - 💬 Ask me about my work.
 - 📫 How to reach me: [mdirfan.netlify.app](https://mdirfan.netlify.app/)
 - ⚡ Fun fact: Data Scientist
+- asg
+- adsf
 
-<!-- Statistics -->
+<!-- Statistics-3 -->
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light">
 
-<!--    ![Github stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true)
-   <br>
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light) -->
+### Connect with me:
 
-<br>
+- lINKS
+- links2
+- links3
+- links4
+- links5
 
 ##  ✔ Technologies <img align='right' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img align='right' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img align='right' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
@@ -85,3 +94,6 @@ Here are some things find about me:
  -->
 
 <!-- <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-mdirfan)](https://github.com/dev-mdirfan/github-profile-trophy)
+
