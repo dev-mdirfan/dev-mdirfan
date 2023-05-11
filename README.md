@@ -20,6 +20,8 @@ Here are some things find about me:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&count_private=true&show_icons=true&theme=dracula)](https://github.com/devmdirfan/github-readme-stats) -->
+
 <a href='https://github.com/dev-mdirfan/github-readme-stats' ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&langs_count=10"></a>
 
 - 🌱 I worked on projects of AR/VR Metaverse, WebD.
@@ -32,9 +34,9 @@ Here are some things find about me:
 - adsf
 
 <!-- Statistics-3 -->
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light) -->
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=dracula) -->
 <!-- Error -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light"> -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=dracula"> -->
 
 ### Connect with me:
 
@@ -57,7 +59,7 @@ Here are some things find about me:
 3. 
 
 
-[![Mohd Irfan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev-mdirfan)](https://github.com/dev-mdirfan/github-readme-stats)
+[![Mohd Irfan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdirfan)](https://github.com/dev-mdirfan/github-readme-stats)
 
 
 
