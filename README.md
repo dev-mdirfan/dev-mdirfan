@@ -1,10 +1,31 @@
-# Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mdirfan.netlify.app/)
+# Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mdirfan.netlify.app/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
+
+
+<!-- Connect with me -->
+<a href="https://www.linkedin.com/in/mdirfan57/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ </a> 
+<a href="mailto:mdirfan5702@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
+<a href="https://twitter.com/dev_irfanmd">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+</a>
+<a href="https://dev.to/mdirfan">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<!-- <a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a> -->
+<!-- <a href="https://www.buymeacoffee.com/vrukshali">
+	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a> -->
+<br>
+
 
 <!-- Statistics-1 -->
 <!-- ![satical data](https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&) -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
 <h3 align="">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing" target="_blank">CV</a></h3>
 <h3 align="">Hire Me on <a href="">Fiver</a></h3>
