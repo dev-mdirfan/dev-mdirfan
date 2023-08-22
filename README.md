@@ -1,5 +1,8 @@
 # Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mdirfan.netlify.app/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
+<!-- Statistics-1 -->
+<!-- ![satical data](https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&) -->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&">
 
 <!-- Connect with me -->
 <a href="https://www.linkedin.com/in/mdirfan57/">
@@ -23,12 +26,10 @@
 <br>
 
 
-<!-- Statistics-1 -->
-<!-- ![satical data](https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&) -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&">
 
-<h3 align="">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing" target="_blank">CV</a></h3>
-<h3 align="">Hire Me on <a href="">Fiver</a></h3>
+
+<h3 align="left">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing" target="_blank">CV</a></h3>
+<h3 align="left">Hire Me on <a href="">Fiver</a></h3>
 
 Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
@@ -79,9 +80,9 @@ Here are some things find about me:
 2. __[Django Project](#)__
 3. 
 
-
+<!--
 [![Mohd Irfan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdirfan)](https://github.com/dev-mdirfan/github-readme-stats)
-
+-->
 
 
 <!-- <div align='right'>
