@@ -73,14 +73,15 @@ Here are some things find about me:
 
 ##  ✔ Technologies <img align='right' src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img align='right' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img align='right' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
+<a href="https://app.daily.dev/mdirfan"><img src="https://api.daily.dev/devcards/4bdd0cd6f1cf4279954d6c7c3e6a4173.png?r=7rf" width="400" alt="Mohd Irfan's Dev Card"/></a>
+
+<!--
 ### [My ALL Projects](https://github.com/dev-mdirfan/MyProjects.git)
 
 
 1. [Web Dev](#)
 2. __[Django Project](#)__
 3. 
-
-<!--
 [![Mohd Irfan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdirfan)](https://github.com/dev-mdirfan/github-readme-stats)
 -->
 
