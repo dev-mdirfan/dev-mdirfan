@@ -3,7 +3,6 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mdirfan&">
 
 <h3 align="left">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing" target="_blank">Resume</a></h3>
-<h3 align="left">Hire Me on <a href="">Fiver</a></h3>
 
 Here are some things find about me:
 
