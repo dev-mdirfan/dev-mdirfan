@@ -9,7 +9,7 @@ Here are some things find about me:
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Full Stack Web Development.
-- 🌱 I worked on projects of AI & ML, AR/VR Metaverse, WebD.
+- ⚡ I worked on projects of AI & ML, AR/VR Metaverse, WebD.
 - 👯 I’m looking to collaborate on FSD.
 - 📫 How to reach me: [mdirfan.netlify.app](https://mdirfan.netlify.app/)
 
