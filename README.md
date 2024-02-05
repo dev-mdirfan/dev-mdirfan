@@ -16,8 +16,8 @@ Here are some things find about me:
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="GitHub Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false" alt="GitHub Top Languages">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false&count_private=true&" alt="GitHub Stats">
 
 ---
 
