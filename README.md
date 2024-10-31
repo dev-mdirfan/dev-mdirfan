@@ -1,5 +1,9 @@
 # Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm [Irfan!](https://mdirfan.netlify.app/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-mdirfan.dev-mdirfan)
 
+<a href="https://github.com/dev-mdirfan/">
+	<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=dev-mdirfan&theme=dark" alt="GitHub Streak">
+ </a>
+
 <h3 align="left">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing" target="_blank">Resume</a></h3>
 
 Here are some things find about me:
@@ -16,9 +20,6 @@ Here are some things find about me:
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false" alt="GitHub Top Languages"> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false&count_private=true&" alt="GitHub Stats">
-<a href="https://github.com/dev-mdirfan/">
-	<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=dev-mdirfan&theme=dark" alt="GitHub Streak">
- </a>
 
 ---
 
