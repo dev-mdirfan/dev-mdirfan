@@ -35,9 +35,7 @@ Here are some things find about me:
 
 [![An image of @devmdirfan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmdirfan)](https://holopin.io/@devmdirfan)
 
-### Follow me
-
-Connect With Me:
+### Connect with me:
 
 <p align="center">
 	<!-- Connect with me -->
