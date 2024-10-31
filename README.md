@@ -19,7 +19,7 @@ Here are some things find about me:
 ### My GitHub Stats:
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false" alt="GitHub Top Languages"> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false&count_private=true&" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=dark&show_icons=true&hide_border=false&count_private=true&" alt="GitHub Stats">
 
 ---
 
